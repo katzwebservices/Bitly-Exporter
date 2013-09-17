@@ -48,7 +48,7 @@ The Bitly Exporter plugin allows you to export up to three years of daily click 
 ![A look at the administration page, including the great graphing functionality](http://s.wordpress.org/extend/plugins/bitly-exporter/screenshot-1.png)
 
 ###2. The exported data, ready for analysis!###
-![The exported data, ready for analysis!](http://s.wordpress.org/extend/plugins/bitly-exporter/screenshot-2.png)
+![The exported data, ready for analysis!](http://s.wordpress.org/extend/plugins/bitly-exporter/screenshot-2.jpg)
 
 
 ## Frequently Asked Questions ##
